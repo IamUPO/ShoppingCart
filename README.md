@@ -15,7 +15,7 @@ You can view the live version of this project on GitHub Pages: [Shopping Cart UI
 Feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/iamupo/)
-- [Instagram](https://www.x.com/iamupo/)
+- [X](https://www.x.com/iamupo/)
 
 ## Getting Started
 
